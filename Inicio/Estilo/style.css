@@ -1,0 +1,141 @@
+body{
+    margin: 100px;
+    width: 100px;
+}
+.Fondo{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 12vh;
+    left: -0.1vw;
+}
+.rectangulo{
+    position: absolute;
+    width: 200vw;
+    height: 55vh;
+    top: -40vh;
+    right:-80vw;    
+}
+.inicio{
+    position: absolute;
+    font-size:2vw;
+    color: white;
+    top:2vh;
+    left: 15vw;
+}
+.que{
+    position: absolute;
+    font-size:2vw;
+    color: white;
+    top:2vh;
+    left: 28vw;
+}
+.menu{
+    position: absolute;
+    font-size:2vw;
+    color: white;
+    top:2vh;
+    left: 40vw;
+}
+.entrega{
+    position: absolute;
+    font-size:2vw;
+    color: white;
+    top:2vh;
+    left: 70vw;
+}
+
+.cuadroblanco{
+    position: absolute;
+    width: 34vw;
+    height: 70vh;
+    background-color: white;
+    top: 23vh;
+    left: 4vw;
+    border-radius: 3vw;
+}
+.consulta{
+    position: absolute;
+    font-size: 2vw;
+    width:19vw;
+    text-align: center;
+    left: 7vw;
+}
+.ingreso{
+    position: absolute;
+    font-size: 1vw;
+    width: 24vw;
+    top: 13vh;
+    left: 4vw;
+    text-align:center;
+
+}
+#cars{
+    position: absolute;
+    width: 27vw;
+    height: 3vh;
+    left: 3vw;
+    top: 26vh;
+    font-size:1.4vw;
+    border: 0.2vw solid black;
+}
+#numero{
+    position: absolute;
+    width: 27vw;
+    height: 3vh;
+    left: 3vw;
+    top: 34vh;
+    border: 0.2vw solid black;
+}
+#nombre1{
+    position: absolute;
+    width: 27vw;
+    height: 3vh;
+    left: 3vw;
+    top: 42vh;
+    border: 0.2vw solid black;
+}
+#nombre2{
+    position: absolute;
+    width: 27vw;
+    height: 3vh;
+    left: 3vw;
+    top: 50vh;
+    border: 0.2vw solid black;
+}
+.consultar{
+    position: absolute;
+    width: 12vw;
+    height: 5vh;
+    background-color: rgb(44, 107, 207);
+    border-radius: 1vw;
+    top: 58vh;
+    left: 10vw;
+    font-size: 1.8vw;
+    color: white;
+}
+.ingreso1{
+    position: absolute;
+    font-size: 3.5vw;
+    left: 58vw;
+    top: 43vh;
+}
+.texto{
+    position: absolute;
+    width: 31vw;
+    font-size: 1.9vw;
+    left: 53.5vw;
+    top: 55vh;
+    text-align: center;
+}
+.conoce{
+    position: absolute;
+    width: 12vw;
+    height: 5vh;
+    background-color: rgb(44, 107, 207);
+    border-radius: 1vw;
+    top: 80vh;
+    left: 64vw;
+    font-size: 1.8vw;
+    color: white;
+}
