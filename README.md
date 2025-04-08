@@ -12,7 +12,8 @@
 
   
 
-|-- [1.2. index](https://github.com/andres8073562/Html_S1_FILTRO_Andre_Reyes/blob/master/inicio.html)
+|-- [1.2. index](https://github.com/andres8073562/Html_S1_FILTRO_Andre_Reyes/blob/master/inicio.html
+)
 
   
 
